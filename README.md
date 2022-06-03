@@ -1,1 +1,1 @@
-# teck_stack
+# teck-stack
